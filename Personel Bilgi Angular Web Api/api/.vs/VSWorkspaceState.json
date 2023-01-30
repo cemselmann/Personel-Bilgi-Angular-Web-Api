@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AngularApi",
+    "\\AngularApi\\PersonelBilgi",
+    "\\AngularApi\\PersonelBilgi\\Areas",
+    "\\AngularApi\\PersonelBilgi\\Areas\\HelpPage",
+    "\\AngularApi\\PersonelBilgi\\Areas\\HelpPage\\Controllers",
+    "\\AngularApi\\PersonelBilgi\\Controllers",
+    "\\AngularApi\\PersonelBilgi\\Photos",
+    "\\AngularApi\\PersonelBilgi\\Views",
+    "\\AngularApi\\PersonelBilgi\\Views\\Home",
+    "\\AngularApi\\PersonelBilgi\\Views\\Shared"
+  ],
+  "SelectedNode": "\\AngularApi\\PersonelBilgi\\Controllers\\ValuesController.cs",
+  "PreviewInSolutionExplorer": false
+}

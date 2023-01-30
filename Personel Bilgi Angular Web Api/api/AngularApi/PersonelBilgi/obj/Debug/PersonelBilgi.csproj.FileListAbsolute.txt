@@ -1,0 +1,294 @@
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.dll.config
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.pdb
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.exe
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.exe.config
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.rsp
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.exe
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.exe.config
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.rsp
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.AppContext.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Collections.Immutable.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Console.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Globalization.Calendars.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.Compression.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.FileSystem.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Net.Http.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Net.Sockets.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Reflection.Metadata.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.ValueTuple.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XPath.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.exe
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.exe.config
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.rsp
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\VBCSCompiler.exe
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\VBCSCompiler.exe.config
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Antlr3.Runtime.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.Web.Infrastructure.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Newtonsoft.Json.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Net.Http.Formatting.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Helpers.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.WebHost.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Mvc.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Optimization.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Razor.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Deployment.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Razor.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\WebGrease.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Newtonsoft.Json.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Net.Http.Formatting.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Helpers.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.WebHost.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Mvc.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Optimization.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Razor.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Deployment.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Razor.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Antlr3.Runtime.pdb
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Helpers.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Http.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Mvc.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Optimization.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Razor.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.AssemblyReference.cache
+C:\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.CoreCompileInputs.cache
+C:\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.CopyComplete
+C:\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.pdb
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Cors.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.Cors.dll
+C:\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.Cors.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.dll.config
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.pdb
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.exe
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.exe.config
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.rsp
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.exe
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.exe.config
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.rsp
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.AppContext.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Collections.Immutable.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Console.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Globalization.Calendars.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.Compression.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.FileSystem.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Net.Http.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Net.Sockets.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Reflection.Metadata.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.ValueTuple.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XPath.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.exe
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.exe.config
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.rsp
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\VBCSCompiler.exe
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\VBCSCompiler.exe.config
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Antlr3.Runtime.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.Web.Infrastructure.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Newtonsoft.Json.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Net.Http.Formatting.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Cors.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Helpers.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.Cors.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.WebHost.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Mvc.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Optimization.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Razor.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Deployment.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Razor.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\WebGrease.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Net.Http.Formatting.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.Cors.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Newtonsoft.Json.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Helpers.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.WebHost.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Mvc.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Optimization.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Razor.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Deployment.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Razor.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Antlr3.Runtime.pdb
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Net.Http.Formatting.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Http.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Helpers.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Http.WebHost.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Mvc.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Optimization.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Razor.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.Razor.resources.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.AssemblyReference.cache
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.CoreCompileInputs.cache
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.CopyComplete
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.dll
+E:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.pdb
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.dll.config
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\PersonelBilgi.pdb
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.exe
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.exe.config
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csc.rsp
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.exe
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.exe.config
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\csi.rsp
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.AppContext.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Collections.Immutable.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Console.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Globalization.Calendars.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.Compression.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.FileSystem.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Net.Http.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Net.Sockets.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Reflection.Metadata.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.ValueTuple.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XPath.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.exe
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.exe.config
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\vbc.rsp
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\VBCSCompiler.exe
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\roslyn\VBCSCompiler.exe.config
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Antlr3.Runtime.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.Web.Infrastructure.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Newtonsoft.Json.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Net.Http.Formatting.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Cors.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Helpers.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.Cors.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.WebHost.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Mvc.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Optimization.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Razor.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Deployment.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Razor.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\WebGrease.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Net.Http.Formatting.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.Cors.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Newtonsoft.Json.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Helpers.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Http.WebHost.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Mvc.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Optimization.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.Razor.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Deployment.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\System.Web.WebPages.Razor.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Antlr3.Runtime.pdb
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Net.Http.Formatting.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Http.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Helpers.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Http.WebHost.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Mvc.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Optimization.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.Razor.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.AssemblyReference.cache
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.CoreCompileInputs.cache
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.csproj.CopyComplete
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.dll
+D:\NETWORK AKADEMİ DERSLER\ASP.NET WEB API-ANGULAR\angular web api\api\AngularApi\PersonelBilgi\obj\Debug\PersonelBilgi.pdb
